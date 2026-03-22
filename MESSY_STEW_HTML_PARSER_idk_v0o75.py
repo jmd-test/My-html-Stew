@@ -284,4 +284,4 @@ class MessyStew:
 #test stuff HERE PLEASE ■■■■■■■■■■■■■■■■ 
 p = MessyStew("https://github.com")
 print(p.find("link","attributes"))
-print(p.find("p","data"))s"))
+print(p.find("p","data"))
