@@ -190,7 +190,7 @@ class brickify:
         self.content = ""
         self.type = ""
 
-html = make_seeds(html_tokenizer("https://pornhub.com"))
+html = make_seeds(html_tokenizer("https://github.com"))
 parse_seeds(html)
 def show_tree(parent,depth=0,targets=[]):
     indent = "   " * depth
